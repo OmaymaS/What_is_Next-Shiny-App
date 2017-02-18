@@ -81,6 +81,7 @@ class: small-code
 </ul>
 
 
+***
 Technical Details (Katz's backoff Model) 1/2
 ========================================================
 
