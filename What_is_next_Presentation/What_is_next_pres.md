@@ -1,3 +1,9 @@
+---
+output: 
+  html_notebook: default
+  pdf_document: 
+    toc: yes
+---
 What's Next (Text Prediction Application)
 ========================================================
 author: OmaymaS
@@ -66,6 +72,7 @@ class: small-code
 |here we go        |P(Here we go)                  |
 |and we can do the |P(can do the)                  |
 |the first         |Not found in the trigram model |
+
 
 
 <ul style="font-size: 0.5em;" >
