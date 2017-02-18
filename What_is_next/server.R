@@ -7,9 +7,9 @@ library(tm)
 library(shinyjs)
 
 ## read data --------------------------------
-unig <- readRDS("gram1x.rds")
-big <- readRDS("gram2x_minus1.rds")
-trig <- readRDS("gram3x_minus1.rds")
+unig <- readRDS("data/gram1x.rds")
+big <- readRDS("data/gram2x_minus1.rds")
+trig <- readRDS("data/gram3x_minus1.rds")
 
 ## source functions -------------------------
 source("functions/NextWord.R",local = T)
